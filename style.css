@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Russo+One&display=swap');
+
 body 
 {
-    background-image: url("https://static.wikia.nocookie.net/bandori/images/b/b8/Sparkling_Friends_T.png");
+    background-image: url("https://static.wikia.nocookie.net/bandori/images/7/76/Underwater_Wonderland.png");
     background-size: cover;    
 }
 
@@ -28,8 +30,11 @@ body
 
 #waktu {
     font-size: 64px;
+    font-family: 'Russo One', sans-serif;
 }
 
 .pesan {
     font-size: 32px;
+    font-family: 'Pacifico', sans-serif;
+    color: #225b9e; 
 }
