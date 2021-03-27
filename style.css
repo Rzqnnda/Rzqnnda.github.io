@@ -3,3 +3,33 @@ body
     background-image: url("https://static.wikia.nocookie.net/bandori/images/b/b8/Sparkling_Friends_T.png");
     background-size: cover;    
 }
+
+#wrapper {
+    height: 100vh;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+}
+
+#jam, .konten {
+    width: 100%;
+}
+
+#jam {
+    height: 100%;
+}
+
+#jam p 
+{
+    text-align: center;
+}
+
+#waktu {
+    font-size: 64px;
+}
+
+.pesan {
+    font-size: 32px;
+}
